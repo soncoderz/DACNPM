@@ -1,0 +1,1 @@
+Tự động tính thời hạn gói tập từ ngày đăng ký
